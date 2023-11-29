@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "사물함 배정 프로그램/1.0.0": {
+        "runtime": {
+          "사물함 배정 프로그램.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "사물함 배정 프로그램/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
